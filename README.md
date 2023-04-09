@@ -1,5 +1,3 @@
-## hiya 👋
-
 ![count](https://count.ayaya.beauty/get/@artiemis?theme=gelbooru)
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
