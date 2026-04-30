@@ -1,3 +1,8 @@
-[![My Skills](https://skillicons.dev/icons?i=ts,react,svelte,py,go,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,angular,svelte,py,go)](https://skillicons.dev)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/134306884617371648?showDisplayName=true&bg=313244&borderRadius=15px&hideActivity=whenNotUsed)](https://discord.com/users/134306884617371648)
+<div style="display:flex; gap:8px; align-items:flex-start;">
+  <img src="https://static.telepedia.net/witchhatatelierwiki/8/8b/Illustration_2023-02-15_Coco.png" width="74" />
+  <img src="https://static.telepedia.net/witchhatatelierwiki/5/57/Illustration_2023-02-15_Agott.png" width="78" />
+  <img src="https://static.telepedia.net/witchhatatelierwiki/3/3c/Illustration_2023-02-15_Tetia.png" width="76" />
+  <img src="https://static.telepedia.net/witchhatatelierwiki/e/e1/Illustration_2023-02-15_Richeh.png" width="74" />
+</div>
